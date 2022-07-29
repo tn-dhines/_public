@@ -14,7 +14,9 @@ Misc Sites
 
 --Blacklist Categories -
 Fake News
-
+Games
+Video Streaming
+Audio Streaming
 
 --Public Threat lists
 BAD ACTOR AGGREGATE : Compiled list of IPs that have attempted to brute force authenticate or have used default/bogus usernames in attempt to access Triton Networks' systems.
