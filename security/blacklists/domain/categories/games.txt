@@ -1,0 +1,6 @@
+battlenet.com
+ea.com
+capcom.com
+playstation.com
+sega.com
+playstore.google.com

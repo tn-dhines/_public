@@ -5,11 +5,14 @@ These threat lists are updated at fairly regular, but not set, intervals based o
 
 Similarly to the various security vendors the domains have been broken into categories; though perhaps not the same categories as the vendors themselves.  The categories include:
 --Whitelist Categories -
-VoIP Services
+Telephony Services
+Filesharing
+Financial
 Banking
 Investment
 Shopping
 Misc Sites
+Working Man
 
 
 --Blacklist Categories -
@@ -17,6 +20,13 @@ Fake News
 Games
 Video Streaming
 Audio Streaming
+OTX Threat Source
+Image_Boards
+Pornography
+Social Sites
+
+MALICIOUS_SITES_AGGREGATE
+SUSPICIOUS_SITES_AGGREGATE
 
 --Public Threat lists
 BAD ACTOR AGGREGATE : Compiled list of IPs that have attempted to brute force authenticate or have used default/bogus usernames in attempt to access Triton Networks' systems.
