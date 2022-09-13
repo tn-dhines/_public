@@ -43,7 +43,7 @@
 #Goahead.Webserver.HTTP.Request.DOS
 129.232.191.10
 
-OpenSSL.Heartbleed.Attack
+#OpenSSL.Heartbleed.Attack
 45.33.65.249
 
 #NMAP Scan
