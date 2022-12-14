@@ -58,6 +58,12 @@
 #Tonga.Office.Anywhere.Unauthorized.File.Upload
 60.246.134.10
 
+#SSLVPN Threats
+172.247.168.153
+192.36.119.61
+103.131.189.143
+188.34.130.40
+
 #SQL Injections
 #HTTP.Referer.Header.SQL.Injection
 60.246.134.10
