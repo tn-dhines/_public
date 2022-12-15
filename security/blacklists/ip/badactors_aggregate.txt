@@ -22,7 +22,6 @@
 #Apache.Log4j
 5.181.80.128
 69.236.215.6
-70.113.253.222
 178.211.139.4 
 
 #Dasan.GPON.Remote.Code.Execution
