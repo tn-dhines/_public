@@ -17,14 +17,21 @@
 190.180.154.102 
 175.107.13.146
 178.232.207.168
+
 #Apache.Log4j
+5.181.80.128
 69.236.215.6
+70.113.253.222
+178.211.139.4 
+
 #Dasan.GPON.Remote.Code.Execution
 175.107.1.201
 182.234.215.22
 190.75.73.56
+
 #MS.Windows.HTTP.sys.Request.Handling.Remote.Code.Execution
 185.180.143.8
+
 #JAWS.DVR.CCTV.Shell.Unauthenticated.Command.Execution
 66.45.234.206
 
@@ -307,6 +314,8 @@
 185.180.143.8
 185.180.143.79
 61.177.173.27
+
+###### AGGRESSIVE BAD ACTORS #####
 ##Macao !!!
 ###HTTP.Referer.Header.SQL.Injection
 ###Apache.Axis2.Default.Password.Access
@@ -319,9 +328,14 @@
 ###Phpweb.CMS.appcode.Information.Disclosure
 ###PHP.Diescan
 ###HTTP.Header.SQL.Injection
-
 60.246.134.10 
 ### !!!
+##Slovenia
+###OpenVas.WebScanner
+###SSLv2.Openssl.Get.Shared.Ciphers.Overlflow.Attempt
+195.80.150.221
+### !!!
+
 
 #Unsolicited VPN Proposals
 50.116.0.91
