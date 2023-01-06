@@ -1,0 +1,35 @@
+# Banking
+bankofamerica.com
+boa.com
+compassbank.com
+chase.com
+citi.com
+wellsfargo.com
+pnc.com
+capitalone.com
+svb.com
+us.hsbc.com
+hscb.com
+53.com
+
+# Investing & Stocks
+tfsbrokerage.com
+robinhood.com
+fidelity.com
+ubs.com
+ir.svb.com
+
+
+# Other Banking
+barclays.com
+penfed.org
+usaa.com
+edwardjones.com
+
+# Other Financial
+thebancorp.com
+trustfinc.com
+mint.com
+visa.com
+americanexpress.com
+
