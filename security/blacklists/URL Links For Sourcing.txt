@@ -1,0 +1,21 @@
+#IP Threatlists
+https://raw.githubusercontent.com/tn-dhines/_public/main/security/blacklists/ip/badactors_aggregate.txt
+https://raw.githubusercontent.com/tn-dhines/_public/main/security/blacklists/ip/digital_ocean_aggregate.txt
+
+#Malicious Domains / Blacklisted Domains
+https://raw.githubusercontent.com/tn-dhines/_public/main/security/blacklists/domain/triton_malicious_sites.txt
+
+#Flagged/Suspicious Domains
+https://raw.githubusercontent.com/tn-dhines/_public/main/security/blacklists/domain/triton_suspicious_sites.txt
+
+#Triton Networks Categorical Sites
+##Video Streaming
+https://raw.githubusercontent.com/tn-dhines/_public/main/security/blacklists/domain/categories/video_streaming.txt
+##Audio Streaming
+https://raw.githubusercontent.com/tn-dhines/_public/main/security/blacklists/domain/categories/audio_streaming.txt
+##Covid19 Scam
+https://raw.githubusercontent.com/tn-dhines/_public/main/security/blacklists/domain/categories/covid19_scam.txt
+##Fake News
+https://raw.githubusercontent.com/tn-dhines/_public/main/security/blacklists/domain/categories/fake_news.txt
+##Gaming
+https://raw.githubusercontent.com/tn-dhines/_public/main/security/blacklists/domain/categories/games.txt
