@@ -1,2 +1,5 @@
 #Source: AlienVault :: Malicious IP
 piaopiao.ml
+
+#Source CyberArmor.io
+omnatuor.com
