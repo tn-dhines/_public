@@ -2,6 +2,8 @@
 https://raw.githubusercontent.com/tn-dhines/_public/main/security/blacklists/ip/badactors_aggregate.txt
 https://raw.githubusercontent.com/tn-dhines/_public/main/security/blacklists/ip/digital_ocean_aggregate.txt
 https://rescure.me/rescure_blacklist.txt
+#EmergingThreats.Net
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 
 #Malicious Domains / Blacklisted Domains
 https://raw.githubusercontent.com/tn-dhines/_public/main/security/blacklists/domain/triton_malicious_sites.txt
