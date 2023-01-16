@@ -3,3 +3,7 @@ piaopiao.ml
 
 #Source CyberArmor.io
 omnatuor.com
+
+#Source: OTX : [Pulse] 10387061-1.v1 XMRig (11/2022)
+mine.c3pool.com
+bornforthis.ml
