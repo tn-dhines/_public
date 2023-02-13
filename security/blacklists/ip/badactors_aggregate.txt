@@ -568,3 +568,7 @@
 
 #SRA Access Attempts
 179.60.149.183 
+
+#SSL VPN Bad Actor Attempts
+#Amsterdam / RIPE
+45.143.200.6
