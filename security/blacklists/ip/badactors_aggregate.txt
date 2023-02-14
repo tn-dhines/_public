@@ -572,3 +572,4 @@
 #SSL VPN Bad Actor Attempts
 #Amsterdam / RIPE
 45.143.200.6
+45.143.200.46
