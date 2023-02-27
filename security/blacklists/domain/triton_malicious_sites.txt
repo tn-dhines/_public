@@ -7,3 +7,11 @@ omnatuor.com
 #Source: OTX : [Pulse] 10387061-1.v1 XMRig (11/2022)
 mine.c3pool.com
 bornforthis.ml
+
+#Source FortiGuard
+#Phishing
+xxx.fucktor.com
+b.datinglookup.top
+
+#SPAM URLs
+f.datings-tip.top
