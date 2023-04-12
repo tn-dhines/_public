@@ -1,0 +1,5 @@
+# COGENT-A (AS174) Assignment by ARIN
+#	OrgId: PSI
+# 	--> 38.0.0.0 - 38.255.255.254
+#	
+38.0.0.0/8
