@@ -222,6 +222,12 @@
 #Psychz Networks
 104.149.131.242
 
+#Bogus FMGM Port Access Attempts
+#SWITCH LTD (Las Vegas)
+#YHC-3; NET209; NET-209-99-0-0-1
+209.99.100.20
+
+
 #System Access Attempts (root, user, admin, admins, pi, ubnt, etc) ssh
 2.51.178.171
 2.182.94.254
@@ -312,12 +318,14 @@
 179.43.159.250
 190.211.255.34
 
-#Netherlands
+#Netherlands SSL VPN Access Attempts
+185.224.128.28
 # RIPE: XHOSTIS-NET, NL MNT VLTDWELLER DATA CENTER
 185.170.144.128 - 185.170.144.255
 #Internet Solutions LP
 #AS208091
 87.251.67.0/24
+
 
 
 #BRAZIL
