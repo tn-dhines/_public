@@ -74,11 +74,6 @@
 #Tonga.Office.Anywhere.Unauthorized.File.Upload
 60.246.134.10
 
-#SSLVPN Threats
-172.247.168.153
-192.36.119.61
-103.131.189.143
-188.34.130.40
 
 #SQL Injections
 #HTTP.Referer.Header.SQL.Injection
@@ -228,7 +223,7 @@
 209.99.100.20
 
 
-#System Access Attempts (root, user, admin, admins, pi, ubnt, etc) ssh
+#System Access Attempts (root, user, admin, admins, pi, ubuntu, etc) ssh
 2.51.178.171
 2.182.94.254
 5.152.239.143
@@ -257,7 +252,7 @@
 43.224.109.174
 45.9.20.25
 45.9.20.73
-45.143.200.6 
+45.143.200.6
 45.143.200.46 
 58.153.107.14
 60.8.87.190
@@ -313,10 +308,26 @@
 #GERMANY
 5.78.85.213 
 #PANAMA CITY
-#PRIVATE LAYER.com
+31.7.59.226 
+46.19.138.210
+46.19.143.10
 81.17.25.210
+103.131.189.143
+162.211.40.132 
+172.247.168.153
+179.43.133.202
+179.43.133.210 
+179.43.144.226
+179.43.150.27
 179.43.159.250
+179.43.163.210
+188.34.130.40
 190.211.255.34
+192.36.119.61
+194.165.16.30
+
+
+
 
 #Netherlands SSL VPN Access Attempts
 185.224.128.28
