@@ -1,0 +1,17 @@
+#RECYBER 
+#NETNAME : NET-3-163
+#+-----------------------------------------------
+#remarks:        | This net-block is not trying to hack you, we are only scanning
+#remarks:        | for LEGIT purposes ONLY. This scanning is done by multiple
+#remarks:        | security organizations.
+#remarks:        | Please use https://www.recyber.net/opt-out
+#remarks:        | to have your ip-address and/or netblock/as number white-listed
+#remarks:        | and excluded from this project.
+#remarks:        | If you have any further questions please contact email@recyber.net
+#remarks:        +-----------------------------------------------
+89.248.163.128
+89.248.163.129
+89.248.163.130
+89.248.163.131
+89.248.163.246
+89.248.163.255
