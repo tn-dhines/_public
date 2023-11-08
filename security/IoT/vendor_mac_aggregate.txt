@@ -1,0 +1,50 @@
+## TP-Link
+e8:48:b8:**:**:**
+## Fortinet
+
+## Cisco
+50:67:ae:ee:57:0a	#Cisco SPA112
+50:17:ff:45:ca:dd	#Cisco catalyst switch
+50:17:ff:45:ca:f6	#Cisco SF300 switch
+
+
+
+## NETGEAR
+
+## Yealink
+00:15:65:75:a4:e2	#Yealink T41P
+80:5e:0c:44:3a:e3	#Yealink T54W
+80:5e:0c:d7:71:2f	#Yealink T33G
+80:5e:c0:0f:2e:cf	#Yealink T46S
+00:15:65:f5:5c:c1	#yealink T48G
+00:15:65:f5:5e:a1	#yealink T48G
+00:15:65:f5:5e:7d	#yealink T48G
+00:15:65:f5:5d:0e	#yealink T48G
+00:15:65:f5:5c:9c 	#yealink T48G
+80:5e:c0:aa:dc:fe	#Yealink T48S
+80:5e:c0:a7:15:e4	#Yealink T48S
+
+
+
+## Polycom
+64:16:7f:02:55:83	#VVX 501
+
+## HP
+# LaserJet
+38:22:e2:8e:73:e4
+48:ba:4e:35:f3:92	#Pro M501DN
+
+## Brother
+#MFC
+3c:2a:f4:c9:74:fe	# MFC-5700
+
+
+## Network-Box USA
+00:e0:67:1a:88:36
+00:e0:67:1a:88:34
+
+
+
+## Amcrest
+#IP Cameras
+9c:8e:cd:2e:af:8e	#NVR
