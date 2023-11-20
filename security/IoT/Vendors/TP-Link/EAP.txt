@@ -1,0 +1,6 @@
+# EAP610 Outdoor
+48:b0:2d:21:7f:1a
+5c:62:8b:f7:57:58
+
+# EAP225 Outdoor
+5c:62:8b:46:65:dc

@@ -1,0 +1,17 @@
+# G2 Cloud Key
+70:a7:41:f1:a7:ab
+
+# G2 Card Readers
+d8:b3:70:42:33:47
+d8:b3:70:42:34:89
+
+# Access Controllers
+e4:38:83:86:ce:d0
+e4:38:83:86:d0:c1
+e4:38:83:86:d6:64
+
+# Protect CAMs
+f4:e2:c6:0b:99:c7
+f4:e2:c6:0b:9a:50
+f4:e2:c6:0b:9b:10
+f4:e2:c6:0b:9b:3e
