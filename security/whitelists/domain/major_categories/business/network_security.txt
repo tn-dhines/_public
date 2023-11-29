@@ -1,0 +1,9 @@
+*.cisco.com
+*.fortinet.com
+*.fortiguard.com
+*.ciena.com
+*.alienvault.com
+*.huntress.com
+*.sentinelone.com
+*.webroot.com
+*.ipvoid.com

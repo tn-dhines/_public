@@ -1,4 +1,4 @@
-# Banking
+#Major Banks
 bankofamerica.com
 boa.com
 compassbank.com
@@ -12,24 +12,14 @@ us.hsbc.com
 hscb.com
 53.com
 
-# Investing & Stocks
-tfsbrokerage.com
-robinhood.com
-fidelity.com
-ubs.com
-ir.svb.com
-
-
-# Other Banking
+#Additional Banks
 barclays.com
 penfed.org
 usaa.com
 edwardjones.com
 
-# Other Financial
 thebancorp.com
 trustfinc.com
 mint.com
 visa.com
 americanexpress.com
-

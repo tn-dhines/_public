@@ -1,0 +1,15 @@
+# T41P
+00:15:65:75:a4:e2
+
+# Yealink T46S
+80:5e:c0:79:f5:db
+80:5e:c0:aa:dc:fe
+
+
+
+# Yealink T48S
+80:5e:c0:aa:d6:28
+
+
+#Yealink T54W
+80:5e:0c:44:3a:e3

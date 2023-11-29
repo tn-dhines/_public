@@ -1,0 +1,17 @@
+*.att.com
+*.verizon.com
+*.frontier.com
+*.windstream.com
+*.intermedia.com
+*.gtt.com
+*.nextlink.com
+*.cogent.com
+*.rise.com
+*.peoplesinternet.com
+*.simplefiber.com
+*.centurylink.com
+*.comcast.com
+*.lumen.com
+*.peerlessinternet.com
+*.acumera.com
+*.spectrum.com

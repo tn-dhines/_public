@@ -1,0 +1,3 @@
+#Intermedia
+*.telecomsvc.com
+*.serverdata.net
