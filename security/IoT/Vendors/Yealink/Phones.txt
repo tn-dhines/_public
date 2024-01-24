@@ -1,15 +1,31 @@
-# T41P
+# Wireless Phones
+80:5e:0c:e7:9c:a1
+
+#T33G
+24:9a:d8:22:c3:71
+24:9a:d8:22:c2:89
+24:9a:d8:22:c3:77
+
+# T41P	=> 00:15:65:**:**:**
 00:15:65:75:a4:e2
 
-# Yealink T46S
+# Yealink T46S => 80:5e:c0:**:**:**
 80:5e:c0:79:f5:db
 80:5e:c0:aa:dc:fe
+80:5e:c0:79:fc:24
 
 
 
-# Yealink T48S
+# Yealink T48S => 80:5e:c0:**:**:**
 80:5e:c0:aa:d6:28
 
 
-#Yealink T54W
+#Yealink T54W => 80:5e:0c:**:**:**
 80:5e:0c:44:3a:e3
+80:5e:0c:7c:d0:f9
+80:5e:0c:7c:ed:bd
+80:5e:0c:7c:ee:35
+80:5e:0c:7c:f4:33
+80:5e:0c:7c:f4:1b
+80:5e:0c:7c:ee:bb
+

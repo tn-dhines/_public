@@ -1,0 +1,3 @@
+#Samsung Electronics Co
+#98:0D:6F:00:00:00 - 98:0D:6F:FF:FF:FF
+98:0D:6F:**:**:**
