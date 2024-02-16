@@ -924,3 +924,11 @@ CHINA_180.101.88.222
 74.80.255.73
 #NJ IP =>  Goodwill HQ Attempts
 12.76.28.246
+
+#Brute Force & BOTNET Sources
+## JupmPoint
+66.240.205.34
+2.55.68.37
+125.228.51.98
+190.83.25.241
+102.140.225.148
