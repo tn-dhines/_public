@@ -923,10 +923,21 @@ CHINA_180.101.88.222
 185.240.121.241
 74.80.255.73
 #NJ IP =>  Goodwill HQ Attempts
+
 12.76.28.246
+# netname: ORG-DP125-RIPE
+94.232.40.0/
+# Russian IP
+94.232.47.231
+94.232.47.233
+#TZULO Inc
+198.44.128.173
+43.225.189.0/24
+#Host Royal
+43.225.189.0/24
 
 #Brute Force & BOTNET Sources
-## JupmPoint
+## JumpPoint
 66.240.205.34
 2.55.68.37
 125.228.51.98
