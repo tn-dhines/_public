@@ -1,3 +1,9 @@
+#Region
+##Country
+###Territory
+####Type
+
+
 #DEVICE FAMILIES
 #D-Link.Devices.HNAP.SOAPAction-Header.Command.Execution
 45.186.201.131
@@ -338,7 +344,9 @@
 141.255.164.98
 179.43.133.202
 179.43.150.27
-
+##EU
+###CLOUDVPS-NET; RIPE OrgID: ORG-ISI14-RIPE
+5.181.86.18
 
 ##United States
 #TZULO, INC
@@ -419,6 +427,9 @@
 180.101.88.222
 ## Uzbekistan
 213.230.97.202
+## USA
+###Georgia
+192.252.212.14
 ### UNKNOWN
 193.201.9.99
 ##Taiwan
@@ -432,9 +443,6 @@
 
 
 
-
-#Unsolicited VPN Proposals
-50.116.0.91
 
 #DDoS Sources
 #17.248.185.9 Apples's Mask2Cloud
@@ -960,14 +968,16 @@ CHINA_180.101.88.222
 
 #NJ IP =>  Goodwill HQ Attempts
 
-12.76.28.246
+##12.76.28.246
 # netname: ORG-DP125-RIPE
 94.232.40.0/24
 # Russian IP
 94.232.47.231
 94.232.47.233
 #TZULO Inc
+198.44.128.152
 198.44.128.173
+
 43.225.189.0/24
 #Host Royal
 43.225.189.0/24
