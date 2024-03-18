@@ -669,8 +669,12 @@
 199.188.207.5
 
 
-#SSH Access Attempts
-
+#SSH Access Attempts ##
+#Mainted-by: STARK-MNT
+####Admin: SICKl337
+94.131.115.0/24
+##Admin: SICKl337
+185.234.66.0 - 185.234.66.255
 
 #Unsolicited SNMP Queries
 #CENSYS INC : CENSY : Michigan, US : COT12-ARIN : NET-162-142-125-0-1
