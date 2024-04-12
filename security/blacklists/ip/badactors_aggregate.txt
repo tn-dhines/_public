@@ -695,6 +695,8 @@
 # United States
 ## Illinois
 68.235.43.148
+## California
+146.70.172.0/24
 
 ## Bogus User Attempts Login Attempts
 109.190.41.135
