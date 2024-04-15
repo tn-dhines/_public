@@ -686,6 +686,8 @@
 
 
 #Remote HTTPS Admin Access Attempts
+# Hong Kong
+188.119.66.145
 #EU
 5.181.86.22
 ## England
@@ -697,6 +699,9 @@
 68.235.43.148
 ## California
 146.70.172.0/24
+## Kentucky
+### - CyberData LLC
+23.162.40.82
 
 ## Bogus User Attempts Login Attempts
 109.190.41.135
