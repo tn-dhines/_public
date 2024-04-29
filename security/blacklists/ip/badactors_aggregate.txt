@@ -708,6 +708,11 @@
 23.162.40.82
 ## Massachusetts
 23.220.102.142
+## FLORIDA
+146.70.187.54
+## PENSYLVANIA
+### -> SingularityTeleocmSK (StelecomCN) => North Korean/Chinese/Russian owner?
+213.170.223.106
 #Austraila
 ##Brisbane
 150.252.240.3
