@@ -354,8 +354,11 @@
 #HSI NET, Hosting Services Inc
 ## Admin login attempts
 206.217.192.0/19
-
 199.116.118.223
+# TOTAL SERVER SOLUTIONS (Marietta, GA) | AS46562
+192.252.208.0/20
+# GLOBALAXS-MNT (New York) | M247 LTD NEW YORK | ORG-MLA37-RIPE
+146.70.165.169
 
 #Netherlands SSL VPN Access Attempts
 185.224.128.28
