@@ -441,6 +441,9 @@
 192.252.212.14
 ### TEXAS
 79.127.222.0/24
+### New York
+## ## MNTR: Globals Mnt | ORG: ORG-MLA37-RIPE
+146.70.166.0/24
 ### UNKNOWN
 193.201.9.99
 ##Taiwan
@@ -708,25 +711,42 @@
 185.156.46.165
 # RUSSIAN FEDERATION
 213.170.223.167
+188.119.66.145
 # United States
 ## Illinois
 68.235.43.148
+### -> TZULO, INC
+68.235.44.29
+198.54.130.89
 ## California
 146.70.172.0/24
 146.75.105.16
+142.147.89.234
+# VIRGINIA
+### -> PacketExchange, Inc (GTT Communications)
+173.205.93.6
 ## Kentucky
 ### - CyberData LLC
+23.162.40.41
 23.162.40.82
 ## Massachusetts
 23.220.102.142
 ## FLORIDA
 146.70.187.54
-## PENSYLVANIA
+## PENNSYLVANIA
 ### -> SingularityTeleocmSK (StelecomCN) => North Korean/Chinese/Russian owner?
 213.170.223.106
-#Austraila
+## NEW YORK
+43.225.189.158
+146.70.168.169
+### -> NYC Trading | 
+138.36.92.0/23
+138.36.92.175
+#Australia
 ##Brisbane
 150.252.240.3
+#SPAIN
+185.240.121.65
 
 ## Bogus User Attempts Login Attempts
 109.190.41.135
