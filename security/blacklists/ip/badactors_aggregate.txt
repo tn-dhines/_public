@@ -743,7 +743,6 @@
 198.54.130.89
 ## California
 146.70.172.0/24
-146.75.105.16
 142.147.89.234
 # VIRGINIA
 ### -> PacketExchange, Inc (GTT Communications)
@@ -757,7 +756,7 @@
 ## FLORIDA
 146.70.187.54
 ## PENNSYLVANIA
-### -> SingularityTeleocmSK (StelecomCN) => North Korean/Chinese/Russian owner?
+### -> SingularityTelecomSK (StelecomCN) => North Korean/Chinese/Russian owner?
 213.170.223.106
 ## NEW YORK
 43.225.189.158
