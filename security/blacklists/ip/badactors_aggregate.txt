@@ -347,6 +347,10 @@
 ##EU
 ###CLOUDVPS-NET; RIPE OrgID: ORG-ISI14-RIPE
 5.181.86.18
+# DENMARK
+### ORG: TrafficTransitSolutionNet
+85.239.36.0/24
+85.239.36.101 
 
 ##United States
 #TZULO, INC
@@ -363,6 +367,9 @@
 # GLOBALAXS-MNT (New York) | M247 LTD NEW YORK | ORG-MLA37-RIPE
 146.70.165.169
 
+#DENMARK
+
+
 #Netherlands SSL VPN Access Attempts
 185.224.128.28
 # RIPE: XHOSTIS-NET, NL MNT VLTDWELLER DATA CENTER
@@ -373,7 +380,7 @@
 
 #HONG KONG
 2.57.149.155
-
+213.109.202.116
 
 #BRAZIL
 168.196.102.162
@@ -1050,7 +1057,6 @@ CHINA_180.101.88.222
 199.116.112.0/21
 199.116.118.249
 199.116.118.250
-aaaaaaaaaaaaa
 103.230.69.161
 
 #Florida (Panama City)
@@ -1062,8 +1068,7 @@ aaaaaaaaaaaaa
 
 
 
-#NJ IP =>  Goodwill HQ Attempts
-##12.76.28.246
+
 # netname: ORG-DP125-RIPE
 94.232.40.0/24
 # Russian IP
