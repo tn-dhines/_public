@@ -1,0 +1,32 @@
+#Generic Users
+coa
+ddd
+
+#Admin Variants
+admin
+Admin
+Administrator
+administrator
+God
+god
+gdasadmin
+administradordba
+arconisadmin
+exchangeadmin
+user
+superuser
+
+#Helpdesk Bad Actors
+
+#VPN Related
+vpnhelpdesk
+vpnsecureaccess
+vpnoperations
+vpnconsultant
+vpnmonitor
+
+#Other
+magnetapp
+epaper
+unknown
+servuoeanvsndare
