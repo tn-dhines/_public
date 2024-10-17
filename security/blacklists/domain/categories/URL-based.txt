@@ -1,0 +1,6 @@
+#typosquatting
+*web.core.microsoft.net
+*siem-nbusa.com
+
+
+#Browser Hijacking
