@@ -888,6 +888,7 @@
 ### RUSSIAN FEDERATION
 213.170.223.167
 188.119.66.145
+185.147.124.174
 ### United States ##
 ######## IPXO, LLC >> Dallas, TX based IP Lease/Seller
 192.177.92.0/24
