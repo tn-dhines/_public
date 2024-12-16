@@ -880,15 +880,18 @@
 188.119.66.145
 175.45.58.198
 
-#EU
+###EU
 5.181.86.22
-## England
+### England
 45.134.140.147
 185.156.46.165
-# RUSSIAN FEDERATION
+### RUSSIAN FEDERATION
 213.170.223.167
 188.119.66.145
-# United States
+### United States ##
+######## IPXO, LLC >> Dallas, TX based IP Lease/Seller
+192.177.92.0/24
+23.26.192.0/19
 ## Illinois
 68.235.43.148
 ### -> TZULO, INC
