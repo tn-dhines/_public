@@ -1,0 +1,1 @@
+F-SBID( --name "allow.myconnectsecure.com";  --pattern "myconnectsecure.com"; --protocol tcp; --no_case; --flow from_host; --context host; --severity low; )

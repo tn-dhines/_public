@@ -1,1 +1,11 @@
 1) External Ports admin access limited to only  necessary Ports
+	Disable ADMIN access on WAN facing ports: Permit only PING for monitoring
+		config system interface
+		edit <inferface>
+		set allowaccess ping
+		next
+		end
+
+2)	Establish DVCLNK tunnels for device management
+	COLO SERVICES : WAN1 (H5 COLO) > dvclnk1.tritonnet.net
+	COLO SERVICES : WAN2 (ATT) > dvclnk2.tritonnet.net
