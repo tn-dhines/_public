@@ -546,7 +546,7 @@
 #France
 141.94.64.118
 31.39.234.242
-#CHINA
+#CHINA 223.
 61.177.173.2
 61.177.173.10
 61.177.173.22
@@ -561,6 +561,9 @@
 #############################################
 ## HONG KONG
 154.212.141.199
+## Seychelles
+###netname: CLOUDVPS-NET; org-name: Internet Solutions & Innovations LTD ; 5.181.86.0/24
+5.181.86.18
 
 
 
@@ -654,7 +657,7 @@
 #173.194.24.70 Google
 #142.250.114.95 Google
 #74.125.1.106 Google
-## Germany 3xkTech
+## Germany 3xkTech	104.207.32.0/19
 104.207.45.102
 
 #Emerging Threatsources

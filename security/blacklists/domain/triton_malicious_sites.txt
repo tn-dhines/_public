@@ -15,3 +15,6 @@ b.datinglookup.top
 
 #SPAM URLs
 f.datings-tip.top
+
+#Red Canary Recommendations
+*.pdf-fast.com
