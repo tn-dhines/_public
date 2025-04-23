@@ -1,0 +1,69 @@
+{
+	"$schema": "https://json-schema.org/drft/2020-12/schema",
+	"$id": "blacklist-catalog.schema.json",
+	"title": "Blacklist-Catalog",
+	"description": "A break down of the what and why of blacklisted objects",
+	"type": "object",
+	"properties": {
+		"iid": {
+			"description": "indexable Bad Actor ID",
+			"type": "string"
+		},
+		"actor": {
+			"description": "Bad Actorr Details",
+			"type": "object",
+			"properties":{
+				"host":{
+					"description":"Offending IP address",
+					"type":"array",
+					"items":{
+						"type":"number",
+						"minimum": 0,
+						"maxixmum": 255,
+						"minItems": 4,
+						"maxItems": 4
+						}
+				},
+				"origin": {
+					"description": "Location information",
+					"type": "object",
+					"properties": {
+						"o_country":{
+							"description": "2 character country code",
+							"type": "string"
+						},
+						"o_city":{
+							"description": "City/Metropolitan name",
+							"type":"string"
+						}
+					}
+				},
+				"whois":{
+					"description": "whois info",
+					"type": "object",
+					"properties" : {
+						"org":{
+							"description": "organization",
+							"type":"string"
+						}
+					}
+				}
+				},
+			"dns":{
+				"description":"Known DNS relations",
+				"type":"object",
+				"properties":{
+					"fqdns":{
+						"description":"Known FQDNs",
+						"type":"array",
+						"items":{
+							"type":"string"
+						},
+						"uniqueItems": true
+					}
+				}
+			}
+			}
+		}
+	}
+
