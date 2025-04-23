@@ -596,6 +596,11 @@
 ###SSLv2.Openssl.Get.Shared.Ciphers.Overlflow.Attempt
 195.80.150.221
 ### !!!
+### Interstate Threaded Products Webserver DDoS ###
+## SINGAPORE ##
+47.79.198.67
+47.79.214.78
+
 
 ################# 
 ##Admin Access Attempts ## HTTPS, SSH, TELNET, ETC
