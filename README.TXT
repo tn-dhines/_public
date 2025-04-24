@@ -1,39 +1,16 @@
-These threat lists are updated at fairly regular, but not set, intervals based on the accumulated data across several security appliances in addition to data collected from other security vendors (AlienVault OTX, Virus Total, URLVoid, FortiGuard Labs)
+These threat lists are updated at fairly regular (but not at set intervals). Based on the accumulated log data across several security appliances in addition to data collected from other security vendors (AlienVault OTX, Virus Total, URLVoid, FortiGuard Labs, ipcriminal, and more)
 
-**Note that once an IP or URL makes it on to one of these lists, it is very hard get them removed unless specifically requested by a customer.
-
-
-Similarly to the various security vendors the domains have been broken into categories; though perhaps not the same categories as the vendors themselves.  The categories include:
---Whitelist Categories -
-Telephony Services
-Filesharing
-Financial
-Banking
-Investment
-Shopping
-Misc Sites
-Working Man
-
-
---Blacklist Categories -
-Fake News
-Games
-Video Streaming
-Audio Streaming
-OTX Threat Source
-Image_Boards
-Pornography
-Social Sites
-
-MALICIOUS_SITES_AGGREGATE
-SUSPICIOUS_SITES_AGGREGATE
+**Note that once an IP or URL makes it on to one of these lists, it is very hard get them removed unless specifically requested by a Triton Networks customer.
 
 --Public Threat lists
 BAD ACTOR AGGREGATE : Compiled list of IPs that have attempted to brute force authenticate or have used default/bogus usernames in attempt to access Triton Networks' systems.
-
 ** This list may be updated based on ingested data or customer needs.
 
+-- 3rd Party Sources
+Third party sources for emerging or known threats include OTX, Virus Total, URL Voice, ipcriminal, and more
+
 Below are a list of permanent URLs that can be sourced to access the various threat lists in this repository.
+
 BAD ACTOR AGGREGATE :
 https://raw.githubusercontent.com/tn-dhines/_public/main/security/blacklists/ip/badactors_aggregate.txt
 
