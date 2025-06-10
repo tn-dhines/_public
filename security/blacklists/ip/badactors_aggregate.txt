@@ -584,6 +584,7 @@
 ## EONIX ##
 173.232.0.0/16
 173.44.128.0/17
+170.130.0.0/16
 
 #Malicious Code Sources. Remote Code
 185.180.143.8
