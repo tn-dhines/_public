@@ -531,12 +531,17 @@
 ## Seychelles
 ###netname: CLOUDVPS-NET; org-name: Internet Solutions & Innovations LTD ; 5.181.86.0/24
 5.181.86.18
+####### GLOBAL CONNECTIVITY SOLUTIONS
+5.181.3.0/24
 ### ////### Las Vegas -> Germany ###\\\\
 173.232.146.10
 173.232.146.175
 ### TZULO
-##Datacamp.co.UK
 23.234.64.0/18
+##HostRoyale INDIA
+103.81.230.0/23
+185.141.119.0/24
+##Datacamp.co.UK
 87.249.132.0/11
 138.199.10.0/23
 ## EONIX ## => Germany
