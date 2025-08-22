@@ -1,3 +1,52 @@
 {
-	"$id": "https://raw.githubusercontent.com/tn-dhines/_public/refs/heads/main/datamodels/_smoke-signals/models/agent.schema.json"
+	"$id": "https://raw.githubusercontent.com/tn-dhines/_public/refs/heads/main/datamodels/_smoke-signals/models/agent.schema.json",
+	"$schema": "https://json-schema.org/draft-07/schema",
+	"title": "Smoke-Signals Agent Definition",
+	"type" : "object",
+	"properties": {
+		"agentID": {
+			"type": "string",
+			"description": "Agent's identifier"
+			},
+		"accountID":{
+			"type": "number"
+			},
+		"collector": {
+			"type":"string",
+			"description": "IP or FQDN of collector host"
+			},
+		"auth": [
+			"type": "array",
+			"items": {
+				"secret": {
+					"type":"string",
+					"description":"The users password all scrambified"
+				},
+				"token": {
+					"type": "object",
+					"properties": {
+						"code": {
+							"type": "string" ,
+							"description": "The encrypted passcode of the user trying to authenticate"
+						}
+					},
+				"expiration": {
+					"type": "datetime"
+				}
+				}
+			}
+		]
+		},
+		"$ref" : "$_hostSystem"
+		"agentNetwork": { 
+			"type": "array",
+			"items": {
+				"type": "object",
+					"properties": {
+						"ip.local": { "type": "string"},
+						"ip.www" : {"type": "string"}
+					}
+			}
+
+		}]
 }

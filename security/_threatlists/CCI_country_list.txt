@@ -1,0 +1,20 @@
+## Rank ## Country ## WCI Score
+1_Russia_58.39
+2_Ukraine_36.44
+3_China_27.86
+4_United States_25.01
+5_Negeria_21.28
+6_Romanmia_14.83
+7_North Korea_10.61
+8_United Kingdom_9.01.61
+9_Brazil_8.93
+10_India_6.13
+11_Iran_4.78
+12_Belarus_3.87
+13_Ghana_3.58
+14_South Africa_2.58
+15_Moldova_2.57
+16_Israel_2.51
+17_Poland_2.22
+18_Germany_2.17
+20_Llatvia_1.68
