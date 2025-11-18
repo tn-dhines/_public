@@ -21,3 +21,19 @@ f.datings-tip.top
 
 #VMS Proxy :: Brute Force
 *relay-us-dal-1-prod-dp.vmsproxy.com
+
+# TRITON NETWORKS INVESTIGATIONS #
+actionkit.com
+##djustice.cdn.actionkit.com
+## Registrar : NapeCheap, Inc
+## Created 10/22/2003
+## IANA ID: 1068
+## Country : Republic of Korea
+## AS Name: AS-VULTR
+## State : Capitol Region
+## Phishing Probablyity : 28.54%
+liadm.com
+## Registrar: eNom, LLC
+## IANDA ID : 48
+
+
