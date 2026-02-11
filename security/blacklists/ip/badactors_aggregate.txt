@@ -204,6 +204,10 @@
 #SWITCH LTD (Las Vegas)
 #YHC-3; NET209; NET-209-99-0-0-1
 209.99.100.20
+### Shodan Scanner Sources
+# Amsterdam
+86.54.31.36
+
 ####################################################
 #System Access Attempts (root, user, admin, admins, pi, ubuntu, etc) ssh
 98.220.218.194
@@ -413,7 +417,6 @@
 ### CUSTOMER REQUESTS
 #
 54.39.183.35
-#SSL VPN Attempts
 50.114.85.180
 51.81.209.159
 63.117.14.11
@@ -423,6 +426,7 @@
 151.236.21.70
 #BULGARIA
 79.124.58.194
+78.128.114.110
 #GERMANY
 5.78.85.213
 #PANAMA CITY
@@ -457,6 +461,9 @@
 85.239.36.0/24
 85.239.36.101
 ###United States
+# Georgia
+### Mediacom Communications
+173.21.3.14
 ##ACE DATA CENTER (Utah)
 #ADMIN ACCESS Attempts
 23.26.218.53
@@ -479,6 +486,9 @@
 #Netherlands SSL VPN Access Attempts
 179.60.146.32
 185.224.128.28
+204.76.203.56
+167.71.66.127
+45.142.193.12
 # RIPE: XHOSTIS-NET, NL MNT VLTDWELLER DATA CENTER
 185.170.144.128/25
 #Internet Solutions LP
@@ -4953,6 +4963,7 @@
 79.127.222.214
 ##BULGARIA
 79.124.58.194
+91.148.190.150
 ##HONG KONG
 ##PAKISTAN
 193.201.9.99
@@ -5244,9 +5255,11 @@
 179.60.149.183
 #SSL VPN Bad Actor Attempts
 #Amsterdam / RIPE
+45.142.193.12
 45.143.200.6
 45.143.200.46
 45.143.200.0/24
+
 # CLOUDVIDER
 45.87.124.0/24
 193.228.199.0/24
