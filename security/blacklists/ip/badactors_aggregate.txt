@@ -206,7 +206,7 @@
 209.99.100.20
 ### Shodan Scanner Sources
 # Amsterdam
-86.54.31.36
+#86.54.31.36
 
 ####################################################
 #System Access Attempts (root, user, admin, admins, pi, ubuntu, etc) ssh
