@@ -13,6 +13,13 @@ bornforthis.ml
 xxx.fucktor.com
 b.datinglookup.top
 
+## Community Flags
+### Redirect
+vpn-fortinet.github.io
+fortinet-vpn.com
+### Phishing
+vpn-fortinet.com
+
 #SPAM URLs
 f.datings-tip.top
 
