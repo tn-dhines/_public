@@ -1,3 +1,6 @@
+### CloudFlair BA Requests
+104.18.10.251
+104.18.11.251
 #Region
 ##Country
 ###Territory
