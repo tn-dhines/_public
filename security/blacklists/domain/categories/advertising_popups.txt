@@ -1,0 +1,3 @@
+# Floods screen with unwated notifications and popups
+## Fix is to block the source in the 'Allow Notifications' section of the browser
+upeo-prosec.co.in
