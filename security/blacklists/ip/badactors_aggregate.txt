@@ -1,89 +1,90 @@
 ### CloudFlair BA Requests
 104.18.10.251
 104.18.11.251
-#Region
-##Country
-###Territory
-####Type
-#DEVICE FAMILIES
-#D-Link.Devices.HNAP.SOAPAction-Header.Command.Execution
+##Region
+#Country
+###DATABSE SOURCE
+####Vulnerability Usage Attemped
+#####SPECIFIC TO DEVICE FAMILIES
+###### ICANN / RIPE / IANA / ARIN / APNIC ######
+#####D-Link.Devices.HNAP.SOAPAction-Header.Command.Execution
 45.186.201.131
 45.186.202.139
-#NETGEAR.Related
+######NETGEAR.Related
 178.232.207.168
 180.177.106.24
 168.196.102.162
-#Header.Command.Execution
+####Header.Command.Execution
 200.110.57.78
-#Telerik.Web.UI.RadAsyncUpload.Handling.Arbitrary.File.Upload
+####Telerik.Web.UI.RadAsyncUpload.Handling.Arbitrary.File.Upload
 128.14.134.170
 23.251.102.74
-#Remote Code Execution
+####Remote Code Execution
 190.180.154.102
 175.107.13.146
 178.232.207.168
-#Apache.Log4j
+####Apache.Log4j
 5.181.80.128
 69.236.215.6
 178.211.139.4
-#Dasan.GPON.Remote.Code.Execution
+####Dasan.GPON.Remote.Code.Execution
 175.107.1.201
 182.234.215.22
 190.75.73.56
-#MS.Windows.HTTP.sys.Request.Handling.Remote.Code.Execution
+####MS.Windows.HTTP.sys.Request.Handling.Remote.Code.Execution
 185.180.143.8
-#JAWS.DVR.CCTV.Shell.Unauthenticated.Command.Execution
+####JAWS.DVR.CCTV.Shell.Unauthenticated.Command.Execution
 66.45.234.206
-#Joomla.Core.Session.Remote
+####Joomla.Core.Session.Remote
 60.246.134.10
-#Drupal.Core.Form.Rendering.Component.Remote
+####Drupal.Core.Form.Rendering.Component.Remote
 60.246.134.10
-#vBulletin.tabbedcontainer.Template.Remote
+####vBulletin.tabbedcontainer.Template.Remote
 60.246.134.10
-#vBulletin.Routestring.widgetConfig.Remote
+####vBulletin.Routestring.widgetConfig.Remote
 60.246.134.10
-#Webserver Remote Attacks
-#STUNSHELL.Web.Shell.Remote
+####Webserver Remote Attacks
+####STUNSHELL.Web.Shell.Remote
 60.246.134.10
-#Goahead.Webserver.HTTP.Request.DOS
+####Goahead.Webserver.HTTP.Request.DOS
 129.232.191.10
-#PHP Based
-#PHPStudy.Web.Server.Remote
+####PHP Based
+####PHPStudy.Web.Server.Remote
 60.246.134.10
-#Think.PHP.Request.Method.Remote
+####Think.PHP.Request.Method.Remote
 60.246.134.10
-#PHPWeb.CMS.appcode.Information.Disclosure
+####PHPWeb.CMS.appcode.Information.Disclosure
 60.246.134.10
-#SSL Related.
-#OpenSSL.Heartbleed.Attack
+####SSL Related.
+####OpenSSL.Heartbleed.Attack
 45.33.65.249
 104.156.155.31
-#SSLv2.Openssl.Get.Shared.Ciphers.Overflow.Attempt
+####SSLv2.Openssl.Get.Shared.Ciphers.Overflow.Attempt
 37.120.221.218
 66.115.165.46
 91.90.124.12
-#Office Anywhere
-#Seeyon.Office.Anywhere.htmlofficeservlet.Arbitrary.File.Upload
+####Office Anywhere
+####Seeyon.Office.Anywhere.htmlofficeservlet.Arbitrary.File.Upload
 60.246.134.10
-#Tonga.Office.Anywhere.Unauthorized.File.Upload
+####Tonga.Office.Anywhere.Unauthorized.File.Upload
 60.246.134.10
-#SSH Attempts
+####SSH Attempts
 118.98.90.22
 61.216.117.242
-#SQL Injections
-#HTTP.Referer.Header.SQL.Injection
+####SQL Injections
+####HTTP.Referer.Header.SQL.Injection
 60.246.134.10
-#SQL Injection Attack Sources
+####SQL Injection Attack Sources
 45.189.248.145
 20.236.32.189
 191.55.83.186
 177.34.168.238
 143.255.58.41
-#Port Scanners
-##OpenVAS.Web.Scanner
-###Austria
+####Port Scanners
+####OpenVAS.Web.Scanner
+#Austria
 37.120.221.218
-###USA
+#USA
 66.115.165.46
 91.90.124.12
 #ZMAP User agent
@@ -427,6 +428,7 @@
 64.246.133.4
 #France
 151.236.21.70
+
 #BULGARIA
 79.124.58.194
 78.128.114.110
@@ -6134,6 +6136,9 @@
 ## California
 146.70.172.0/24
 142.147.89.234
+65.49.1.25	#Hurricane Electric
+65.49.1.27
+198.235.24.182	# Palo Alto Networks
 # VIRGINIA
 ### -> PacketExchange, Inc (GTT Communications)
 173.205.93.6
@@ -6142,6 +6147,7 @@
 23.162.40.41
 23.162.40.82
 ## Massachusetts
+45.79.67.140 # Linode 
 23.220.102.142
 ## FLORIDA
 146.70.187.54
