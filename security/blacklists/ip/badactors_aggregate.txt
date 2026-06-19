@@ -465,6 +465,7 @@
 ### ORG: TrafficTransitSolutionNet
 85.239.36.0/24
 85.239.36.101
+194.113.39.0/24
 ###United States
 # Georgia
 ### Mediacom Communications
@@ -5077,6 +5078,7 @@
 ## Sofcompany-speedy
 85.11.183.0/22
 85.11.183.7
+85.11.187.0/24
 ##### DDoS Sources #####
 #17.248.185.9 Apples's Mask2Cloud
 #173.194.24.70 Google
