@@ -1,0 +1,4 @@
+https://www.cs.cmu.edu/~biglou/resources/bad-words.txt
+
+
+https://blocklistproject.github.io/Lists/#available-lists

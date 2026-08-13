@@ -1,0 +1,7 @@
+https://forwarder.adlumin.com
+https://kinesis.us-west-2.amazonaws.com
+https://windowsagent-dll-bucket.s3.us-west-2.amazonaws.com/updates (Used For Updates)
+https://master-ingest-1.securityeco.com
+https://master-ingest-2.securityeco.com
+https://master-ingest-3.securityeco.com
+https://master-ingest-4.securityeco.com
