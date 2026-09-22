@@ -469,10 +469,14 @@
 # GERMANY (DE)
 194.113.39.0/24
 ###United States
+## MA > Amsterdam
+# AKAMAI INTERNATIONAL
+23.56.109.137
 # Georgia
 ### Mediacom Communications
 173.21.3.14
 ##ACE DATA CENTER (Utah)
+
 #ADMIN ACCESS Attempts
 23.26.218.53
 #TZULO, INC
