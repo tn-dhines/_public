@@ -494,7 +494,6 @@
 #DENMARK
 #CZECH REPUBLIC
 ## VMS Lateral action
-95.173.216.240
 #Netherlands SSL VPN Access Attempts
 179.60.146.32
 185.224.128.28
